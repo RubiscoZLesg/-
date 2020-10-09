@@ -29,7 +29,7 @@
     </ul>
     <p>
       <b>注意：</b
-      >电位器R4可以控制控制光控报警器报警的时机，即多强的光能触发三极管开关。
+      >电位器R4可以控制控制光控报警器报警的时机，即控制多强的光能触发三极管开关。
     </p>
     <a
       href="https://baike.baidu.com/item/%E4%B8%89%E6%9E%81%E7%AE%A1/148491?fr=aladdin"
@@ -37,10 +37,10 @@
       >什么？还不知道什么是三极管？戳我了解！</a
     >
     <hr />
+    <div style="background-color: #ffffff; height: 350px; width: 300px">
     <p>
       <b>还是什么都不懂？</b>完成下列问卷，即可获得本页作者一对一答疑的机会！
     </p>
-    <div style="background-color: #ffffff; height: 300px; width: 250px">
       <ol>
         <li>
           <form>请输入姓名<br /><input type="text" name="姓名" /></form>
